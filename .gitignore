@@ -112,6 +112,8 @@ ipython_config.py
 # ================================
 # Virtual Environments (IMPORTANT)
 # ================================
+catboost_info/
+.artifacts
 .env
 .envrc
 .venv
@@ -120,7 +122,7 @@ env/
 ENV/
 env.bak/
 venv.bak/
-
+artifacts/
 # ================================
 # ML / Data Science (IMPORTANT)
 # ================================
